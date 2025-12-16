@@ -34,7 +34,7 @@
 ### 📫 How to reach me
 <!-- GitHub: https://github.com/your-username  -->
 - Email: lylakshminarasimha@gmail.com
-- 
+- https://www.linkedin.com/in/l-y-lakshminarasimha
 ---
 
 ### ⚡ Fun fact
