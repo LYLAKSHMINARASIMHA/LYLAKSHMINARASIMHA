@@ -1,4 +1,4 @@
-## Hi there 👋 I'm L Y S G L Narasimha (Yogi)
+## Hi there 👋 I'm L Y LakshmiNarasimha (Yogi)
 
 🎓 B.Tech 2nd Year CSE Student at RR KITS College  
 💻 Interested in Software Development & Databases  
