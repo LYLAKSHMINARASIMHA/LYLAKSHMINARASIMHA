@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there 👋 I'm L Y S G L Narasimha (Yogi)
 
-<!--
-**LYLAKSHMINARASIMHA/LYLAKSHMINARASIMHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 2nd Year CSE Student at RR KITS College  
+💻 Interested in Software Development & Databases  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- C  
+- Java  
+- Python  
+- HTML, CSS  
+- JavaScript  
+
+---
+
+### 🌱 Currently learning
+- SQL (Database concepts)
+
+---
+
+### ✅ Academic / Personal Projects
+- Resume Comparison Program using C  
+- AI-Chatbot developed using Python
+
+---
+### 💬 Ask me about
+- C Programming  
+- JavaScript  
+- Basics of Databases  
+
+---
+
+### 📫 How to reach me
+<!-- GitHub: https://github.com/your-username  -->
+- Email: lylakshminarasimha@gmail.com
+- 
+---
+
+### ⚡ Fun fact
+I enjoy learning how real-world applications store and use data.
