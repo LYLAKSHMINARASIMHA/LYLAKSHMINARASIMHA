@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm L Y LakshmiNarasimha (Yogi)
 
-🎓 B.Tech 2nd Year CSE Student at RR KITS College  
+🎓 B.Tech 3nd Year CSE Student at RR KITS College  
 💻 Interested in Software Development & Databases  
 
 ---
