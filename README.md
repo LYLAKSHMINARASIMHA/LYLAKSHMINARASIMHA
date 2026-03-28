@@ -25,7 +25,8 @@ present 🎓 B.Tech 3rd Year CSE Student at RR KITS College
 - AI-Chatbot developed using Python
 - React-Form-Project
 [ This project is a simple web page built using ReactJS.  
-  The goal of this project was to learn the basics of React such as components, props and project structure. ]
+  The goal of this project was to learn the basics of React such as components, props and project structure.
+  project link: https://lylakshminarasimha.github.io/react-form-project/ ]
 
 ---
 ### 💬 Ask me about
