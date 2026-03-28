@@ -24,9 +24,9 @@ present 🎓 B.Tech 3rd Year CSE Student at RR KITS College
 - Resume Comparison Program using C  
 - AI-Chatbot developed using Python
 - React-Form-Project
-[ This project is a simple web page built using ReactJS.  
+  [ This project is a simple web page built using ReactJS.  
   The goal of this project was to learn the basics of React such as components, props and project structure.
-  project link: https://lylakshminarasimha.github.io/react-form-project/ ]
+  project_link: https://lylakshminarasimha.github.io/react-form-project/ ]
 
 ---
 ### 💬 Ask me about
