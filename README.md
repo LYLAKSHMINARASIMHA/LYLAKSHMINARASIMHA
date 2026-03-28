@@ -23,10 +23,9 @@ present 🎓 B.Tech 3rd Year CSE Student at RR KITS College
 ### ✅ Academic / Personal Projects
 - Resume Comparison Program using C  
 - AI-Chatbot developed using Python
-- React-Form-Project [
-  # My First ReactJS Project
-This project is a simple web page built using ReactJS.  
-The goal of this project was to learn the basics of React such as components, props and project structure. ]
+- React-Form-Project
+[ This project is a simple web page built using ReactJS.  
+  The goal of this project was to learn the basics of React such as components, props and project structure. ]
 
 ---
 ### 💬 Ask me about
